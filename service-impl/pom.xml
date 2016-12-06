@@ -9,8 +9,6 @@
     <artifactId>sample.multimodule.service.impl</artifactId>
     <packaging>jar</packaging>
     <name>Project Module - Service Implementation</name>
-    <description>Module that contains services implementation defined on Service API module. Depends of Repository Module and 
-    Service API Module.</description>    
 
     <dependencies>
 

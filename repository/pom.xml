@@ -9,8 +9,6 @@
     <artifactId>sample.multimodule.repository</artifactId>
     <packaging>jar</packaging>
     <name>Project Module - Repository</name>
-    <description>Module that contains all repositories to be used in the project. Depends of Model Module.</description>
-
     <dependencies>
       <!-- Project modules -->
       <dependency>

@@ -9,8 +9,6 @@
     <artifactId>sample.multimodule.service.api</artifactId>
     <packaging>jar</packaging>
     <name>Project Module - Service API</name>
-    <description>Module that contains API of all project services. Depends of Model Module.</description>
-
     <dependencies>
 
       <!-- Project Modules -->
